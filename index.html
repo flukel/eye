@@ -40,6 +40,7 @@
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- bootstrap js -->
@@ -88,7 +89,7 @@
                             <li><a href="information.html">ข้อมูลทั่วไป</a></li>
                             <li><a href="schedule.html">กำหนดการ</a></li>
                             <li><a href="download.html">Download</a></li>
-                            <li><a href="contact.html">ผลงานสมาคม</a></li>
+                            <li><a href="working.html">ผลงานสมาคม</a></li>
                             
                         </ul>
                     </div>

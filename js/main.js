@@ -57,9 +57,6 @@ jQuery(document).ready(function(){
 
 $(document).ready(function(){
 
-
-
-
     $(window).scroll(function () {
         if ($(window).scrollTop() > 50) {
             $(".navbar-brand a").css("color","#fff");

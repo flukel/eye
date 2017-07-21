@@ -30,6 +30,7 @@ h2 {
 a:hover {
   text-decoration: none;
 }
+
 .section-heading {
   text-align: center;
   margin-bottom: 65px;
@@ -103,7 +104,7 @@ a:hover {
   background: transparent;
 }
 #top-bar.animated-header {
-  padding: 20px 0;
+  padding: 5px 0;
   background: #ffffff;
   box-shadow: none;
 }

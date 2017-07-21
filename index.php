@@ -315,7 +315,7 @@
             ==================================================
             Footer Section Start
             ================================================== -->
-            <footer id="footer">
+<footer id="footer">
                 <section id="call-to-action">
                     <div class="container">
                         <div class="col-md-4">
@@ -323,23 +323,23 @@
                                         <h3>Recent Posts</h3>
                                         <ul>
                                             <li>
-                                                <a href="#">การฝึกอบรม “Refraction Strabismus and Low vision Training Course”</a><br>
+                                                <a href="working_id1.html">การฝึกอบรม “Refraction Strabismus and Low vision Training Course”</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="#">การฝึกอบรมเวชปฏิบัติทางตา</a><br>
+                                                <a href="working_id2.html">การฝึกอบรมเวชปฏิบัติทางตา</a><br>
                                               
                                             </li>
                                             <li>
-                                                <a href="#">ปี 2557</a><br>
+                                                <a href="working_id2557.html">ปี 2557</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="#">ปี 2556</a><br>
+                                                <a href="working_id2556.html">ปี 2556</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="#">ปี 2555</a><br>
+                                                <a href="working_id2555.html">ปี 2555</a><br>
                                                 
                                             </li>
                                         </ul>
@@ -376,7 +376,7 @@
 
                     </div>
                 </section>
-            </footer> 
+            </footer>
              <!-- /#footer -->
                 
         </body>

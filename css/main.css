@@ -144,9 +144,9 @@ a:hover {
 }
 #hero-area {
   background: url('../images/head59.png') no-repeat 50%;
-  background-size: 100%;
-  background-attachment: fixed;
-  padding: 300px 0;
+  background-size: cover;
+  background-attachment: cover;
+  padding: 280px 0;
   color: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;

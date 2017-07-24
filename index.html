@@ -108,7 +108,7 @@
                     <div class="col-md-12 text-center">
                         <div class="block wow fadeInUp" data-wow-delay=".3s">
                             
-                             <img src="images/head59.PNG" class="img-responsive">
+                             <img src="images/head59.png" class="img-responsive">
 
                                 
                             </div>

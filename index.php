@@ -235,7 +235,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/dl2.png" class="img-responsive" alt="img1" width="100%">
+                                    <img src="images/img_events/IMG_3898.JPG" class="img-responsive" alt="img1" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="http://www3.nurse.cmu.ac.th/VisualConf57/wp-content/uploads/photo-gallery/IMG_3903.JPG" class="img-responsive" alt="img2" width="100%">
+                                    <img src="images/img_events/IMG_3899.JPG" class="img-responsive" alt="img2" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3900.JPG" class="img-responsive" alt="img3" >
+                                    <img src="images/img_events/IMG_3900.JPG" class="img-responsive" alt="img3" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3901.jpg" class="img-responsive" alt="img4" >
+                                    <img src="images/img_events/IMG_3901.JPG" class="img-responsive" alt="img4" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -267,7 +267,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3903.jpg" class="img-responsive" alt="img5" >
+                                    <img src="images/img_events/IMG_3903.JPG" class="img-responsive" alt="img5" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3905.jpg" class="img-responsive" alt="img6" >
+                                    <img src="images/img_events/IMG_3905.JPG" class="img-responsive" alt="img6" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -283,7 +283,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3906.jpg" class="img-responsive" alt="img7" >
+                                    <img src="images/img_events/IMG_3906.JPG" class="img-responsive" alt="img7" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3907.jpg" class="img-responsive" alt="img8" >
+                                    <img src="images/img_events/IMG_3907.JPG" class="img-responsive" alt="img8" width="100%">
                                 </div>
                             </div>
                         </div>
@@ -299,7 +299,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3908.jpg" class="img-responsive" alt="img9" >
+                                    <img src="images/img_events/IMG_3908.JPG" class="img-responsive" alt="img9" width="100%">
                                 </div>
                             </div>
                         </div>

@@ -143,10 +143,10 @@ a:hover {
   opacity: 0;
 }
 #hero-area {
-  background: url('../images/head59.png') no-repeat 50%;
-  background-size: fixed;
+  /*background: url('../images/head59.png') no-repeat 50%;*/
+  background-size: cover;
   background-attachment:fixed;
-  padding: 280px 0;
+  padding: 70px 0;
   color: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;

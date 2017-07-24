@@ -151,16 +151,16 @@ a:hover {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;
 }
-#hero-area:before {
+/*#hero-area:before {
   content: '';
   z-index: 9;
-  /*background: rgba(255, 255, 255, 0.78);*/
+  background: rgba(255, 255, 255, 0.78);
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-}
+}*/
 #hero-area .block {
   position: relative;
   z-index: 999;

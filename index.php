@@ -227,7 +227,7 @@
                     <div class="section-heading">
                         <h1 class="title wow fadeInDown" data-wow-delay=".3s">รูปภาพ</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            เว้นที่ไว้แปะรูปภาพ
+                            images
                         </p>
                     </div>
                     <div class="row">

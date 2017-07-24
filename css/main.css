@@ -146,7 +146,7 @@ a:hover {
   background: url('../images/head59.png') no-repeat 50%;
   background-size: fixed;
   background-attachment: fixed;
-  padding: 350px 0;
+  padding: 500px 0;
   color: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;
@@ -154,7 +154,7 @@ a:hover {
 #hero-area:before {
   content: '';
   z-index: 9;
-  background: rgba(255, 255, 255, 0.78);
+  /*background: rgba(255, 255, 255, 0.78);*/
   position: absolute;
   top: 0;
   left: 0;

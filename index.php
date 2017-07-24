@@ -39,7 +39,6 @@
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
@@ -118,7 +117,12 @@
                                 </h1> -->
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
-                                
+                                <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
+                                (CNEU : กำลังดำเนินการขอจากสภาการพยาบาล)
+                                <p>
+                                ตามประกาศสภาการพยาบาล ราชกิจจานุเบกษา เล่ม ๑๓๓ ตอนพิเศษ ๑๔๔ ง เรื่อง การกำหนดกิจกรรมการศึกษาต่อเนื่องและกำหนดหน่วยคะแนนของพยาบาลเวชปฏิบัติทางตา พ.ศ. ๒๕๕๙ หน่วยกิตที่สะสมจากการศึกษาต่อเนื่อง ควรไม่ต่ำกว่า 30 หน่วยกิตที่ต้องได้รับจากการประชุมฟื้นฟูวิชาการสาขาเวชปฏิบัติทางตา / จาก 50 หน่วยกิตภายใน 5 ปี <br>
+                                ลงวันที่ ๒๖ มิถุนายน ฑ.ศ. ๒๕๕๙ : ที่มา www.tnc.or.th วารสารสภาการพยาบาล หน้า ๒๓ ลว ๒๘ มิถุนายน ๒๕๕๙ </p>
+                                </h2>
 
                                 
                             </div>
@@ -211,7 +215,6 @@
                             </figure>
                         </div>
                     </div>
-
                 </div>
             </section>  <!-- #works -->
             <!--
@@ -221,11 +224,9 @@
             <section id="feature">
                 <div class="container">
                     <div class="section-heading">
-                   
-                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">(CNEU : กำลังดำเนินการขอจากสภาการพยาบาล)</h1>
+                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">รูปภาพ</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            ตามประกาศสภาการพยาบาล ราชกิจจานุเบกษา เล่ม ๑๓๓ ตอนพิเศษ ๑๔๔ ง เรื่อง การกำหนดกิจกรรมการศึกษาต่อเนื่องและกำหนดหน่วยคะแนนของพยาบาลเวชปฏิบัติทางตา พ.ศ. ๒๕๕๙ หน่วยกิตที่สะสมจากการศึกษาต่อเนื่อง ควรไม่ต่ำกว่า 30 หน่วยกิตที่ต้องได้รับจากการประชุมฟื้นฟูวิชาการสาขาเวชปฏิบัติทางตา / จาก 50 หน่วยกิตภายใน 5 ปี <br>
-                                ลงวันที่ ๒๖ มิถุนายน ฑ.ศ. ๒๕๕๙ : ที่มา www.tnc.or.th วารสารสภาการพยาบาล หน้า ๒๓ ลว ๒๘ มิถุนายน ๒๕๕๙
+                            เว้นที่ไว้แปะรูปภาพ
                         </p>
                     </div>
                     <div class="row">
@@ -233,7 +234,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3898.JPG" class="img-responsive" alt="img1" width="100%">
+                                    <img src="images/img_events/IMG_3898.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -241,7 +242,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3899.JPG" class="img-responsive" alt="img2" width="100%">
+                                    <img src="images/img_events/IMG_3899.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -249,7 +250,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3900.JPG" class="img-responsive" alt="img3" width="100%">
+                                    <img src="images/img_events/IMG_3900.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -257,7 +258,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3901.JPG" class="img-responsive" alt="img4" width="100%">
+                                    <img src="images/img_events/IMG_3901.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -265,7 +266,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3903.JPG" class="img-responsive" alt="img5" width="100%">
+                                    <img src="images/img_events/IMG_3903.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -273,7 +274,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3905.JPG" class="img-responsive" alt="img6" width="100%">
+                                    <img src="images/img_events/IMG_3905.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -281,7 +282,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3906.JPG" class="img-responsive" alt="img7" width="100%">
+                                    <img src="images/img_events/IMG_3906.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -289,7 +290,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3907.JPG" class="img-responsive" alt="img8" width="100%">
+                                    <img src="images/img_events/IMG_3907.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -297,7 +298,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3908.JPG" class="img-responsive" alt="img9" width="100%">
+                                    <img src="images/img_events/IMG_3908.jpg" class="img-responsive" alt="this is a title" >
                                 </div>
                             </div>
                         </div>
@@ -313,7 +314,7 @@
             ==================================================
             Footer Section Start
             ================================================== -->
-<footer id="footer">
+            <footer id="footer">
                 <section id="call-to-action">
                     <div class="container">
                         <div class="col-md-4">
@@ -321,23 +322,23 @@
                                         <h3>Recent Posts</h3>
                                         <ul>
                                             <li>
-                                                <a href="working_id1.html">การฝึกอบรม “Refraction Strabismus and Low vision Training Course”</a><br>
+                                                <a href="#">การฝึกอบรม “Refraction Strabismus and Low vision Training Course”</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="working_id2.html">การฝึกอบรมเวชปฏิบัติทางตา</a><br>
+                                                <a href="#">การฝึกอบรมเวชปฏิบัติทางตา</a><br>
                                               
                                             </li>
                                             <li>
-                                                <a href="working_id2557.html">ปี 2557</a><br>
+                                                <a href="#">ปี 2557</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="working_id2556.html">ปี 2556</a><br>
+                                                <a href="#">ปี 2556</a><br>
                                                 
                                             </li>
                                             <li>
-                                                <a href="working_id2555.html">ปี 2555</a><br>
+                                                <a href="#">ปี 2555</a><br>
                                                 
                                             </li>
                                         </ul>
@@ -374,7 +375,7 @@
 
                     </div>
                 </section>
-            </footer>
+            </footer> 
              <!-- /#footer -->
                 
         </body>

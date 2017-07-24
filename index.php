@@ -235,7 +235,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/dl2.png" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3898.jpg" class="img-responsive" alt="img1" >
                                 </div>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3899.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3899.jpg" class="img-responsive" alt="img2" >
                                 </div>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3900.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3900.jpg" class="img-responsive" alt="img3" >
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3901.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3901.jpg" class="img-responsive" alt="img4" >
                                 </div>
                             </div>
                         </div>
@@ -267,7 +267,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3903.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3903.jpg" class="img-responsive" alt="img5" >
                                 </div>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3905.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3905.jpg" class="img-responsive" alt="img6" >
                                 </div>
                             </div>
                         </div>
@@ -283,7 +283,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3906.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3906.jpg" class="img-responsive" alt="img7" >
                                 </div>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3907.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3907.jpg" class="img-responsive" alt="img8" >
                                 </div>
                             </div>
                         </div>
@@ -299,7 +299,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/IMG_3908.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/img_events/IMG_3908.jpg" class="img-responsive" alt="img9" >
                                 </div>
                             </div>
                         </div>

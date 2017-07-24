@@ -243,7 +243,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/avatar-2.jpeg" class="img-responsive" alt="img2" width="100%">
+                                    <img src="http://www3.nurse.cmu.ac.th/VisualConf57/wp-content/uploads/photo-gallery/IMG_3903.JPG" class="img-responsive" alt="img2" width="100%">
                                 </div>
                             </div>
                         </div>

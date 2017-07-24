@@ -235,7 +235,7 @@
                             <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
  
                                 <div class="media-body">
-                                    <img src="images/img_events/dl2.png" class="img-responsive" alt="img1" width="25%">
+                                    <img src="images/img_events/dl2.png" class="img-responsive" alt="img1" width="100%">
                                 </div>
                             </div>
                         </div>
